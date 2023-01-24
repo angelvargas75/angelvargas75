@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET MVC, NET CORE**
 
-- 👨‍💻 All of my projects are available at [https://angelvargas75.github.io/](https://angelvargas75.github.io/)
+- 👨‍💻 All of my projects are available at [https://portfolio-angelv.netlify.app/](https://portfolio-angelv.netlify.app/)
 
 - 📫 How to reach me **angelsk814@gmail.com**
 
