@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate backend developer from Peru</h3>
 
-- 🔭 I’m currently working on [Web App ASP.NET Net Framework](http://www.demo1.somee.com/)
-
 - 🌱 I’m currently learning **ASP.NET MVC, NET CORE**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-angelv.netlify.app/](https://portfolio-angelv.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://angeldevportfolio.netlify.app/)
 
 - 📫 How to reach me **angelsk814@gmail.com**
 
